@@ -9,7 +9,7 @@ Instagram:
     @kioni_cisneros
 
 Objetivo
-  Estudiante de Ingeniería Química con habilidades en liderazgo, diseño, empatía, compromiso e ingenio, buscando oportunidades para aplicar mis   conocimientos y contribuir al campo de la ingeniería química. Apasionada por la divulgación científica, la programación y la fotografía.
+Estudiante de Ingeniería Química con habilidades en liderazgo, diseño, empatía, compromiso e ingenio, buscando oportunidades para aplicar mis   conocimientos y contribuir al campo de la ingeniería química. Apasionada por la divulgación científica, la programación y la fotografía.
 
 Educación
 - Ingeniería Química
